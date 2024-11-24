@@ -1,5 +1,5 @@
 # TODO MEARN STACK APP
-[Visit](https://todo-mern-app-green.vercel.app/).
+Website is live on vercel [Visit](https://todo-mern-app-green.vercel.app/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
